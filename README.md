@@ -40,7 +40,7 @@ See [`docs/curriculum.md`](docs/curriculum.md) for every lab and its gate.
 
 | Lab | Topic | Status | Notes |
 |---|---|---|---|
-| 0.1 | Hello, Depot: solution, domain, tests | ☐ | |
+| 0.1 | Hello, Depot: solution, domain, tests | ✅ | [notes](docs/labs/0.1-hello-depot.md) |
 | 0.2 | Depot gets a door: HTTP API | ☐ | |
 | 0.3 | Ship it in a box: Docker | ☐ | |
 | 0.4 | Networking fundamentals | ☐ | |
