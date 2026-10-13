@@ -1,0 +1,11 @@
+C:\Users\danie\depot\src\Depot.Core\bin\Debug\net8.0\Depot.Core.deps.json
+C:\Users\danie\depot\src\Depot.Core\bin\Debug\net8.0\Depot.Core.dll
+C:\Users\danie\depot\src\Depot.Core\bin\Debug\net8.0\Depot.Core.pdb
+C:\Users\danie\depot\src\Depot.Core\obj\Debug\net8.0\Depot.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\depot\src\Depot.Core\obj\Debug\net8.0\Depot.Core.AssemblyInfoInputs.cache
+C:\Users\danie\depot\src\Depot.Core\obj\Debug\net8.0\Depot.Core.AssemblyInfo.cs
+C:\Users\danie\depot\src\Depot.Core\obj\Debug\net8.0\Depot.Core.csproj.CoreCompileInputs.cache
+C:\Users\danie\depot\src\Depot.Core\obj\Debug\net8.0\Depot.Core.dll
+C:\Users\danie\depot\src\Depot.Core\obj\Debug\net8.0\refint\Depot.Core.dll
+C:\Users\danie\depot\src\Depot.Core\obj\Debug\net8.0\Depot.Core.pdb
+C:\Users\danie\depot\src\Depot.Core\obj\Debug\net8.0\ref\Depot.Core.dll
